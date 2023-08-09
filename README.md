@@ -1,4 +1,4 @@
-Matlab Code for Feature reconstruction from sparse tomographic data. In particular, this code is used for the publications
+Matlab Code for Feature reconstruction from sparse tomographic data. In particular, this code is used in the publications
 
 - Feature Reconstruction from Incomplete Tomographic Data without Detour, S. Göppel, M. Haltmeier, J. Frikel, Mathematics 2022, 10(8), 1318, https://doi.org/10.3390/math10081318 
 
