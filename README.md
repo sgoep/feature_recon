@@ -4,3 +4,4 @@ Matlab Code for Feature reconstruction from sparse tomographic data. In particul
 
 - Combining reconstruction and edge detection in computed tomography, J. Frikel, S. Göppel, M. Haltmeier, (2021). In: Palm, C., Deserno, T. M., Handels, H., Maier, A., Maier-Hein, K., Tolxdorff, T. (eds) Bildverarbeitung für die Medizin 2021. Informatik aktuell. Springer Vieweg, Wiesbaden, https://doi.org/10.1007/978-3-658-33198-6_37 
 
+The repository is currently reworked where I plan to clean the code and add comments.
